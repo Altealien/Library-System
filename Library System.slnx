@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="LibrarySystem.App/LibrarySystem.App.csproj" Id="9010ef89-378c-4a2a-9d56-c5476121081f" />
+  <Project Path="LibrarySystem.Core/LibrarySystem.Core.csproj" Id="01dd52bd-4b66-48ed-a193-c5211e60fc3c" />
+  <Project Path="LibrarySystem.Test/LibrarySystem.Test.csproj" Id="c3e0c0f1-02a2-4b15-abaf-2fc178061609" />
+</Solution>
