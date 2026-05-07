@@ -3,7 +3,7 @@
 
 class Program
 {
-    static void Main()
+    static void Main(string[] args)
     {
         Book book = new() { Title = "Things Fall Apart", Author = "Chinua Achebe", ISBN = "978-0-435-90553-6" };
         Console.WriteLine(book.Title);
